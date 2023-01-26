@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(7, 84, 252);
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+/* This is for indicators of carousel. */
+#indic {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 100%;
+}
+
+#cardiv {
+    padding-top: 50px;
+}
+
+#divItem {
+    padding-top: 50px;
+}
+
+#boximg {
+    width: 100%;
+    border: 5px solid black;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+}
+
+/* This is for storename in Footer. */
+#footerStorename {
+    padding-top: 30px;
+}
+
+#footerlinks {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgba(245, 245, 245, 0.663);
+}
+
+#footbar {
+    background-color: black;
+    color: white;
+}
+
+#message{
+    color: lime;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.buybtn {
+    width: 100%;
+    font-weight: bolder;
+    color: white;
+    background-color: blue;
+}
+
+.buybtn:hover {
+    background-color: lime;
+    color: black;
+}
+
+.card-body {
+    background-color: aquamarine;
+}
